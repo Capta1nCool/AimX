@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-<img width="960" alt="image" src="https://github.com/Capta1nCool/AimX/assets/69457423/10fb5daa-be29-43f7-a041-6ef76bf9396a">
+<img width="960" alt="image" src="https://github.com/Capta1nCool/AimX/assets/69457423/c5cea4c8-bc31-4be5-9e28-929592a80b3c">
 
 
 <img width="960" alt="image" src="https://github.com/Capta1nCool/AimX/assets/69457423/b53038ab-1a63-453a-a6c5-a37429909a95">
